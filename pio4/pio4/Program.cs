@@ -12,6 +12,8 @@ namespace piogi4
         {
             Console.WriteLine("Enter a: ");
             int a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter b: ");
+            int b = Convert.ToInt32(Console.ReadLine());
         }
     }
 }

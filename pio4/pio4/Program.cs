@@ -17,6 +17,7 @@ namespace piogi4
             Console.WriteLine($"a + b = {a + b}");
             Console.WriteLine($"a - b = {a - b}");
             Console.WriteLine($"a * b = {a * b}");
+            Console.WriteLine($"a / b = {a / b}");
         }
     }
 }
